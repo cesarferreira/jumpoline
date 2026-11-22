@@ -1,6 +1,6 @@
 # Jumpoline!
 
-[Play Jumpoline on GitHub Pages](https://cesarferreira.github.io/jumpoline/)
+[Play Jumpoline on GitHub Pages](https://cesarferreira.com/jumpoline/)
 
 Bounce up trampolines, dodge flying bananas, and collect stars on your way through 20 levels to the moon. Every four stars charge a boost, and stars collected across runs unlock new animals.
 
